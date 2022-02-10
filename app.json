@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "prepa-vacances",
+    "slug": "prepa-vacances",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "prepa-vacances"
+}
